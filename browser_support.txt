@@ -1,0 +1,2 @@
+SUPPORTED BROWSERS:
+Chrome , FireFox , Edge , Saffari

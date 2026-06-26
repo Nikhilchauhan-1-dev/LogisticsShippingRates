@@ -17,3 +17,10 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+
+
+one 26-06-2026 
+
+adding a new file for available browser support for convinience of the user
+
